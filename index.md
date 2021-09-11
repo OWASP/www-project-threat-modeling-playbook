@@ -30,10 +30,15 @@ OWASP volunteer
 
 10 September 2020
 
+# Threat modeling community
+
+We can be found on the following OWASP [Threat Modeling Slack channel](https://owasp.slack.com/archives/C1CS3C6AF).<br>
+If you want to join our Slack channel but the direct link doesn’t work, you need an invitation. Get it [here](https://owasp-slack.herokuapp.com/).
+
 # Input and project roadmap
 
 We are currently gathering feedback and input from the community for our next 1.1 release.<br>
-Feel free to suggest fixes, feedback or input through our GitHub issues tracker.<br>
+Feel free to suggest fixes, feedback or input through our GitHub [issues tracker](https://github.com/Toreon/threat-model-playbook/issues).<br>
 
 ## Project roadmap
 
