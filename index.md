@@ -3,7 +3,8 @@
 layout: col-sidebar
 title: OWASP Threat Modeling Playbook (OTMP)
 tags: OTMP
-level: 1
+level: 2
+project: true
 type: documentation
 pitch: Improve your product and software security with the OWASP Threat Modeling Playbook (OTMP)
 
