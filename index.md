@@ -11,7 +11,7 @@ pitch: Improve your product and software security with the OWASP Threat Modeling
 ---
 # Current location
 
-We plan to move/convert the Threat Modeling Playbook to an OWASP repository, for now please visit our [Toreon repo](https://github.com/Toreon/threat-model-playbook).
+We plan to move/convert the Threat Modeling Playbook to an OWASP repository (requested), for now please visit our [Toreon repo](https://github.com/Toreon/threat-model-playbook).
 
 # Intro
 We aim to improve product and software security with our new OWASP threat modeling playbook. We consider threat modeling as a foundational activity to improve your software assurance. We are convinced that a good threat modeling practice will measurably decrease security issues of delivered products.
@@ -29,3 +29,19 @@ CEO Toreon
 OWASP volunteer
 
 10 September 2020
+
+# Input and project roadmap
+
+We are currently gathering feedback and input from the community for our next 1.1 release.<br>
+Feel free to suggest fixes, feedback or input through our GitHub issues tracker.<br>
+
+## Project roadmap
+
+We plan the following updates to our playbook (version 1.1) by end of 2021:
+* include a list of threat modeling methodologies
+* include a list of threat modeling tools
+* add references to other OWASP threat modeling projects and resources
+
+
+
+
