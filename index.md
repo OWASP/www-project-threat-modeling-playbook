@@ -38,7 +38,7 @@ If you want to join our Slack channel but the direct link doesn’t work, you ne
 # Input and project roadmap
 
 We are currently gathering feedback and input from the community for our next 1.1 release.<br>
-Feel free to suggest fixes, feedback or input through our GitHub [issues tracker](https://github.com/Toreon/threat-model-playbook/issues).<br>
+Feel free to suggest fixes, feedback or input through our GitHub [issues tracker](https://github.com/OWASP/threat-modeling-playbook/issues).<br>
 
 ## Project roadmap
 
