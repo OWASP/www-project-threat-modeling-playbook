@@ -3,8 +3,8 @@ title: sponsors
 displaytext: Project sponsors
 layout: null
 tab: true
-order: 3
-tags: belgium
+order: 2
+tags: OTMP
 ---
 
 ## Local sponsors
