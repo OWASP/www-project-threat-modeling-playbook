@@ -7,7 +7,7 @@ order: 2
 tags: OTMP
 ---
 
-## Local sponsors
+## Project sponsors
 {% include sponsors.md %}
 
 If you want to support our project, please contact [Seba Deleersnyder](mailto:seba@owasp.org).
