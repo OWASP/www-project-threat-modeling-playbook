@@ -38,7 +38,7 @@ Feel free to suggest fixes, feedback or input through our GitHub [issues tracker
 
 ## Project roadmap
 
-We plan the following updates to our playbook (version 1.1) by end of 2022:
+We plan the following updates to our playbook (version 1.1) by end of 2023:
 * include a list of threat modeling methodologies
 * include a list of threat modeling tools
 * add references to other OWASP threat modeling projects and resources
