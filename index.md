@@ -11,7 +11,7 @@ pitch: Improve your product and software security with the OWASP Threat Modeling
 ---
 # Current location
 
-We published the Threat Modeling Playbook in markdown in an OWASP [GitHub repository](https://github.com/OWASP/threat-modeling-playbook).
+We donated our [Threat Modeling Playbook](https://www.toreon.com/threat-modeling-playbook/) in markdown in an OWASP [GitHub repository](https://github.com/OWASP/threat-modeling-playbook).
 
 # Intro
 We aim to improve product and software security with our new OWASP threat modeling playbook. We consider threat modeling as a foundational activity to improve your software assurance. We are convinced that a good threat modeling practice will measurably decrease security issues of delivered products.
