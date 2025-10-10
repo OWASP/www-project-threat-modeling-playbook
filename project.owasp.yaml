@@ -1,0 +1,20 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Sebastien Deleersnyder
+    email: seba@owasp.org
+    github: SebaDele
+level: 2
+name: OWASP Threat Modeling Playbook (OTMP)
+pitch: Improve your product and software security with the OWASP Threat Modeling Playbook (OTMP)
+repositories:
+  - name: www-project-threat-modeling-playbook
+    url: https://github.com/OWASP/www-project-threat-modeling-playbook
+    description: OWASP Foundation Web Repository
+tags:
+  - OTMP
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-threat-modeling-playbook
